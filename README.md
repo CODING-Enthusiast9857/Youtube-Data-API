@@ -8,7 +8,7 @@
 - This project fetches youtube data 
 - Here, PHP is used to fetch data
 
-# Appearance 
+# 🚀 Appearance 
 <img src="assets/website.png" width="100%">
 
 #  🧐 For more information
