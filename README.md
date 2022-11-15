@@ -1,1 +1,7 @@
-# Youtube-Data-API
+# Youtube Data API v3
+
+## Youtube Data API is used to fetch youtube data like channel name, description, viewers count, subscribers count, videos count etc.
+
+# About 
+- This project fetches youtube data such as channel name, description, count of subscribers, viewers & videos.
+- PHP is used to fetch data
