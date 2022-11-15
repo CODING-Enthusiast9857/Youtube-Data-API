@@ -5,3 +5,6 @@
 # About 
 - This project fetches youtube data such as channel name, description, count of subscribers, viewers & videos.
 - PHP is used to fetch data
+
+# For more information
+- Click the link given below ```https://developers.google.com/youtube/v3/docs```
