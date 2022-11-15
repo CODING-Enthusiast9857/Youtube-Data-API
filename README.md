@@ -1,6 +1,6 @@
 # Youtube Data API v3
 
-<img src="assets/logo.png" width="100%">
+<img src="assets/logo.png" width="50%">
 
 ### Youtube Data API is used to fetch youtube data like channel name, description, viewers count, subscribers count, videos count etc.
 
